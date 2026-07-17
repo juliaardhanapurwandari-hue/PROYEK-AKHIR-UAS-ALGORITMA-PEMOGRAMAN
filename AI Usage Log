@@ -1,92 +1,47 @@
-AI Usage Log
+# AI Usage Log
 
-Dalam pengerjaan proyek Sistem Rekomendasi Menu Kantin, saya menggunakan AI sebagai alat bantu untuk mencari referensi dan memahami beberapa bagian materi Algoritma Pemrograman. AI digunakan untuk membantu menjelaskan konsep, memberikan contoh struktur program, serta membantu menyusun dokumentasi dan bahan presentasi.
+## Tujuan Penggunaan AI
 
-Tahap Pengerjaan
+Dalam pengerjaan proyek **Sistem Rekomendasi Menu Kantin**, Artificial Intelligence (AI) digunakan sebagai alat bantu untuk memahami materi Algoritma Pemrograman, mencari referensi penyelesaian masalah, serta membantu penyusunan dokumentasi proyek. Penggunaan AI bertujuan untuk mendukung proses belajar dan membantu memahami konsep yang diterapkan pada program, bukan sebagai pengganti dalam mengerjakan tugas.
 
-	
+---
 
-Bantuan AI yang Digunakan
+## Riwayat Penggunaan AI
 
+| Tahapan Pengerjaan | Penggunaan AI | Hasil yang Diperoleh |
+|--------------------|---------------|----------------------|
+| Perencanaan Proyek | Mencari referensi ide proyek yang sesuai dengan materi Algoritma Pemrograman. | Menentukan proyek **Sistem Rekomendasi Menu Kantin** sebagai topik yang akan dikembangkan. |
+| Penyusunan Struktur Data | Meminta penjelasan mengenai penggunaan **List** dan **Dictionary** dalam Python. | Memahami penggunaan List sebagai penyimpan data menu dan Dictionary sebagai penyimpan atribut setiap menu. |
+| Pengembangan Fungsi | Meminta contoh penulisan fungsi beserta docstring agar kode lebih terstruktur. | Menyusun fungsi-fungsi program dengan penamaan dan dokumentasi yang lebih rapi. |
+| Implementasi Algoritma | Meminta penjelasan mengenai algoritma **Searching** dan **Sorting**. | Mengimplementasikan pencarian menu berdasarkan nama serta pengurutan menu berdasarkan harga. |
+| Validasi Input | Meminta contoh validasi input angka dan penanganan kesalahan pengguna. | Program mampu menangani input yang tidak valid tanpa menyebabkan error. |
+| Dokumentasi | Meminta bantuan menyusun README, penjelasan fungsi, dan dokumentasi program. | Dokumentasi proyek menjadi lebih lengkap dan mudah dipahami. |
+| Presentasi | Meminta bantuan menyusun slide presentasi dan naskah presentasi. | Materi presentasi menjadi lebih terstruktur dan mudah dijelaskan. |
 
+---
 
+## Bagian yang Dikerjakan Secara Mandiri
 
-Menentukan ide proyek
+Walaupun menggunakan AI sebagai alat bantu, beberapa bagian proyek tetap dikerjakan secara mandiri, yaitu:
 
-	
+- Menentukan tema dan tujuan proyek.
+- Menyusun alur kerja program.
+- Menyesuaikan struktur data sesuai kebutuhan program.
+- Menggabungkan seluruh fungsi menjadi satu program yang utuh.
+- Menguji setiap fitur yang telah dibuat.
+- Memperbaiki kesalahan (debugging) selama proses pengembangan.
+- Memastikan seluruh fitur berjalan sesuai dengan kebutuhan tugas.
 
-Mencari contoh proyek Python yang sesuai dengan materi Algoritma Pemrograman.
+---
 
+## Refleksi Penggunaan AI
 
+Penggunaan AI pada proyek ini membantu dalam memahami kembali materi Algoritma Pemrograman, khususnya mengenai penggunaan **List**, **Dictionary**, **Function**, **Searching**, **Sorting**, dan **Random Recommendation**. Selain membantu dalam penyusunan dokumentasi dan presentasi, AI juga memberikan penjelasan mengenai cara kerja setiap bagian program sehingga lebih mudah dipahami.
 
+Setiap saran atau contoh yang diberikan AI tidak langsung digunakan, tetapi dipelajari, disesuaikan dengan kebutuhan proyek, kemudian diuji kembali agar sesuai dengan tujuan program yang dibuat. Melalui proses tersebut, pemahaman terhadap materi menjadi lebih baik dan program dapat dikembangkan sesuai dengan kebutuhan tugas.
 
-Menyusun struktur data
+---
 
-	
+## Pernyataan Penggunaan AI
 
-Memahami penggunaan List dan Dictionary dalam Python.
-
-
-
-
-Membuat fungsi program
-
-	
-
-Melihat contoh penulisan fungsi dan docstring agar kode lebih rapi.
-
-
-
-
-Menerapkan algoritma
-
-	
-
-Mempelajari kembali konsep searching dan sorting untuk diterapkan pada program.
-
-
-
-
-Validasi input
-
-	
-
-Mencari cara menangani input yang salah agar program tidak error.
-
-
-
-
-Menyusun dokumentasi
-
-	
-
-Membantu membuat README dan penjelasan fungsi-fungsi program.
-
-
-
-
-Membuat presentasi
-
-	
-
-Membantu menyusun isi slide dan penjelasan saat presentasi.
-
-Bagian berikut tetap saya kerjakan dan pahami sendiri:
-
-Menentukan tema proyek.
-
-Menyusun alur program.
-
-Menyesuaikan data menu kantin.
-
-Menggabungkan seluruh fungsi menjadi satu program.
-
-Menjalankan dan menguji program.
-
-Memperbaiki kesalahan saat program dijalankan.
-
-Menjelaskan kembali isi program dengan bahasa sendiri.
-
-Selama mengerjakan proyek ini, saya jadi lebih memahami cara menggunakan List dan Dictionary, membuat fungsi, melakukan pencarian data, mengurutkan data, serta menangani input pengguna. Penjelasan yang diberikan AI saya pelajari kembali dan disesuaikan dengan kebutuhan program, sehingga tidak langsung digunakan begitu saja.
-
-Dengan demikian, AI hanya digunakan sebagai alat bantu belajar dan membantu penyusunan dokumentasi, sedangkan proses memahami, menyesuaikan, dan menguji program tetap saya lakukan sendiri.
+Artificial Intelligence (AI) digunakan sebagai alat bantu untuk memahami materi, mencari referensi, serta membantu penyusunan dokumentasi dan presentasi. Seluruh kode program telah dipelajari, dipahami, diuji, dan disesuaikan kembali sebelum digunakan dalam proyek ini. Dengan demikian, AI digunakan sebagai pendukung proses belajar, sedangkan proses analisis, pengembangan, pengujian, dan penyelesaian program tetap dilakukan oleh penulis.
