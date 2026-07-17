@@ -279,4 +279,4 @@ if __name__ == "__main__":
 #    secara liar (Side Effects).
 # =========================================================================================
 
-Delete AI_Usage_Log
+Delete MenuKantin.py
