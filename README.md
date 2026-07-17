@@ -243,10 +243,13 @@ Program Sistem Rekomendasi Menu Kantin berhasil dibuat dan dapat berjalan dengan
 
 ---
 
+---
+
 ## Penulis
 
-**Nama :** Julia Ardhana
+| Nama | NIM |
+|------|------|
+| Julia Ardhana Purwandari | 0112523019 |
+| Novi Inamasari | 011252328 |
 
-**NIM :** (Isi NIM Anda)
-
-**Mata Kuliah :** Algoritma Pemrograman
+**Mata Kuliah:** Algoritma Pemrograman
